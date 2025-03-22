@@ -5,7 +5,7 @@ Welcome to my Kaggle Projects repository! This repository contains my data scien
 ## Project: London Bike Sharing Analysis (credits: https://www.youtube.com/watch?v=nl9eZl1IOKI&t=511s)
 
 ### Overview
-This project analyzes bike-sharing data in London, focusing on factors such as weather, time, and seasonality that influence bike rental counts. The dataset includes information such as temperature, humidity, wind speed, weather conditions, and whether the day is a holiday or weekend.
+This project analyzes bike-sharing data in London, focusing on factors such as weather, time, and seasonality that influence bike rental counts. The dataset includes information such as temperature, humidity, wind speed, weather conditions, and whether the day is a holiday or weekend, you can see the tableau dashboard in tableau public here: https://public.tableau.com/app/profile/jose.daniel.munoz.martinez1278/viz/LondonBikeRides_17426299474670/Dashboard1?publish=yes.
 
 ### Dataset
 The dataset used in this project is `london_merged.csv`, which contains the following columns:
